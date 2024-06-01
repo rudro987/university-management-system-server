@@ -1,0 +1,6 @@
+1. npm init -y to start a new project
+2. install necessary dependencies
+3. tsc -init and edit the tsconfig.json for rootdir and outdir
+4. setup eslint and prettier for code formatting
+5. creating server entry point through server.ts and connecting mongodb database
+6.
