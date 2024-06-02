@@ -4,4 +4,7 @@
 4. setup eslint and prettier for code formatting
 5. creating server entry point through server.ts and connecting mongodb database
 6. setup router for the application
-7. setup global error handler and notfoud routes
+7. setup global error handler middlewares
+8. setup interface, model, validation, route, controller and service for user model
+9. setup notfound route middleware
+10. 
